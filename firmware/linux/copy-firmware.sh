@@ -4,6 +4,8 @@
 # Copy firmware files based on WHENCE list
 #
 
+PATH="/sbin:/usr/sbin:/bin:/usr/bin"
+
 [ -z "$FIRMWARE_DIR" ] && FIRMWARE_DIR=vendor/silead/proprietary/firmware/firmware/linux
 
 cd $FIRMWARE_DIR
