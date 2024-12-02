@@ -36,6 +36,7 @@ simply copy the silead directory to /lib/firmware/silead:
 | gsl1680-connect-tablet9.fw             | Connect Tablet9 tablets |
 | gsl1680-csl-panther-tab-hd.fw          | CSL Panther Tab HD |
 | gsl1680-dexp-ursus-kx210i.fw           | DEXP Ursus KX210i tablet |
+| gsl1680-globalspace-solt-ivw116.fw     | Globalspace SoLT IVW 11.6" |
 | gsl1680-gp-electronic-t701.fw          | GP-electronic T701 tablets |
 | gsl1680-irbis-tw118.fw                 | Irbis TW118 tablets |
 | gsl1680-mpman-converter9.fw            | MPMan Converter9 tablets |
@@ -45,6 +46,7 @@ simply copy the silead directory to /lib/firmware/silead:
 | gsl1680-pipo-w11.fw                    | Pipo W11 tablets |
 | gsl1680-positivo-c4128b.fw             | Positivo C4128B convertible |
 | gsl1680-rwc-nanote-p8.fw               | RWC Nanote P8 UMPC-02-SR (convertible) |
+| gsl1680-rwc-nanote-next.fw             | RWC Nanote NEXT UMPC-03-SR (convertible) |
 | gsl1680-teclast-x3-plus.fw             | Teclast X3 Plus tablets |
 | gsl1680-trekstor-primebook-c11.fw      | Trekstor Primebook C11[B] (convertible) |
 | gsl1680-trekstor-primebook-c13.fw      | Trekstor Primebook C13 (convertible) |
